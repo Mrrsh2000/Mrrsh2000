@@ -1,4 +1,4 @@
-# print(' Hello My Friends Welcome To my Profile ')
+# print(' Hello Friends Welcome To my Profile ')
 # my name is <a href="https://github.com/Mrrsh2000">Mohammadreza Rezvani Shad</a>
 <br>
 <a href="https://github.com/Mrrsh2000">
